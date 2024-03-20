@@ -49,10 +49,10 @@ Before running the application, make sure you have the following installed:
 3. Run the application:
 
    ```
-   python app.py <filename>
+   python app.py paste.py
    ```
 
-   Replace `<filename>` with the path to the file you want to paste.
+   Replace `paste.py` with the path to the file you want to paste.
 
 4. The application will generate a unique URL for accessing the pasted file. The URL will be displayed in the terminal.
 
